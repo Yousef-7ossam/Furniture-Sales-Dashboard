@@ -17,8 +17,6 @@ It provides a clear overview of key performance indicators, helping users track 
 
 -Professional layout for easy navigation and decision-making
 
- Objective:
-To enable business owners and analysts to monitor sales performance, identify growth opportunities, and make data-driven decisions that improve overall profitability.
 
 🧹 Data Cleaning and Transformation (Power Query)
 
@@ -37,3 +35,8 @@ After uploading the dataset to Power Query, I performed several data cleaning an
 -Converted the Profit column to Currency format for better financial clarity.
 
 https://github.com/Yousef-7ossam/Furniture-Sales-Dashboard/blob/main/Power%20Query.png
+
+Objective:
+To enable business owners and analysts to monitor sales performance, identify growth opportunities, and make data-driven decisions that improve overall profitability.
+
+
