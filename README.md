@@ -35,3 +35,5 @@ After uploading the dataset to Power Query, I performed several data cleaning an
 -Created a Month column using the first three letters of each month as a suffix (e.g., Jan, Feb, Mar).
 
 -Converted the Profit column to Currency format for better financial clarity.
+
+https://github.com/Yousef-7ossam/Furniture-Sales-Dashboard/blob/main/Power%20Query.png
