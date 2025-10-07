@@ -39,4 +39,4 @@ https://github.com/Yousef-7ossam/Furniture-Sales-Dashboard/blob/main/Power%20Que
 Objective:
 To enable business owners and analysts to monitor sales performance, identify growth opportunities, and make data-driven decisions that improve overall profitability.
 
-
+Dashboard photo : https://github.com/Yousef-7ossam/Furniture-Sales-Dashboard/blob/main/Dashboard.png
